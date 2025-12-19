@@ -12,15 +12,16 @@ Your ultimate structured journey to SQL expertise—from foundational concepts t
 
 ## Folder Structure
 
-### 🧱 01. SQL Basics
+#### 🧱 [01. SQL Basics](./01_Basics/)
 | Topic | File |
 |------|------|
 | Data Types | [`SQL_Data_Types.sql`](./01_Basics/Data_Types/SQL_Data_Types.sql) |
 | Table Operations | [`SQL_Tables_Operations.sql`](./01_Basics/Tables_Operations/SQL_Tables_Operations.sql) |
 | Constraints | [`SQL_Constraints.sql`](./01_Basics/Constraints/SQL_Constraints.sql) |
 
+---
 
-### ✍️ 02. Data Manipulation (DML)
+#### ✍️ [02. Data Manipulation (DML)](./02_Data_Manipulation/)
 | Topic | File |
 |------|------|
 | INSERT | [`SQL_INSERT_Operations.sql`](./02_Data_Manipulation/INSERT_Operations/SQL_INSERT_Operations.sql) |
@@ -29,8 +30,9 @@ Your ultimate structured journey to SQL expertise—from foundational concepts t
 | DELETE | [`SQL_DELETE_Operations.sql`](./02_Data_Manipulation/DELETE_Operations/SQL_DELETE_Operations.sql) |
 | Sorting & LIMIT | [`SQL_Sorting_and_Limits.sql`](./02_Data_Manipulation/Sorting_and_Limits/SQL_Sorting_and_Limits.sql) |
 
+---
 
-### 🧠 03. Advanced Querying
+#### 🧠 [03. Advanced Querying](./03_Advanced_Querying/)
 | Topic | File |
 |------|------|
 | Conditional Logic | [`SQL_Conditional_Logic.sql`](./03_Advanced_Querying/Conditional_Logic/SQL_Conditional_Logic.sql) |
@@ -41,7 +43,9 @@ Your ultimate structured journey to SQL expertise—from foundational concepts t
 | CTEs & Recursive Queries | [`SQL_CTEs_and_Recursive_Queries.sql`](./03_Advanced_Querying/CTEs_and_Recursive_Queries/SQL_CTEs_and_Recursive_Queries.sql) |
 | Window Functions | [`SQL_Functions_and_Window_Functions.sql`](./03_Advanced_Querying/Functions_and_Window_Functions/SQL_Functions_and_Window_Functions.sql) |
 
-### 🏗️ 04. Database Objects
+---
+
+#### 🏗️ [04. Database Objects](./04_Database_Objects/)
 | Topic | File |
 |------|------|
 | Views | [`SQL_Views_Operations.sql`](./04_Database_Objects/Views_Operations/SQL_Views_Operations.sql) |
@@ -50,17 +54,21 @@ Your ultimate structured journey to SQL expertise—from foundational concepts t
 | Triggers | [`SQL_Triggers.sql`](./04_Database_Objects/Triggers/SQL_Triggers.sql) |
 | Cursors | [`SQL_Cursors.sql`](./04_Database_Objects/Cursors/SQL_Cursors.sql) |
 
-### 🔐 05. Transactions & Security
+---
+
+#### 🔐 [05. Transactions & Security](./05_Transactions_and_Security/)
 | Topic | File |
 |------|------|
-| TCL (COMMIT / ROLLBACK) | [`SQL_Transaction_Control_Language.sql`](./05_Transactions_and_Security/Transaction_Control_Language/SQL_Transaction_Control_Language.sql) |
+| Transaction Control (TCL) | [`SQL_Transaction_Control_Language.sql`](./05_Transactions_and_Security/Transaction_Control_Language/SQL_Transaction_Control_Language.sql) |
 | GRANT | [`SQL_GRANT_Operations.sql`](./05_Transactions_and_Security/GRANT_Operations/SQL_GRANT_Operations.sql) |
 | REVOKE | [`SQL_REVOKE_Operations.sql`](./05_Transactions_and_Security/REVOKE_Operations/SQL_REVOKE_Operations.sql) |
 
-### 🚀 06. Advanced Topics
+---
+
+#### 🚀 [06. Advanced Topics](./06_Advanced_Topics/)
 | Topic | File |
 |------|------|
-| Partitioning | [`SQL_Partitioning.sql`](./06_Advanced_Topics/Partitioning/SQL_Partitioning.sql) |
+| Partitioning | [`SQL_Partitioning.sql`](./06_Advanced_Topics/Partitioning/SQL_Partitioning.sql)
 
 ---
 
